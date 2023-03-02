@@ -3,7 +3,7 @@ The wrapper of ContentTranslation (CXServer) API of Wikipedia to be used with mw
 
 ## Usage
 Install via PyPI: `pip install mwclient-contenttranslation`
-```
+```python
 from mwclient import Site
 from mwclient_contenttranslation import CxTranslator
 site = Site("en.wikipedia.org")
