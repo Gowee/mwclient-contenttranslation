@@ -36,7 +36,6 @@ class CxTranslator:
 
     def _get_cxtoken(self):
         r = self.site.raw_api("cxtoken", token=self.site.get_token("csrf"))
-        print(r)
         try:
             cxtoken = r["jwt"]
         except KeyError:

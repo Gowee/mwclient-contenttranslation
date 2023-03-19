@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "mwclient-contenttranslation"
-version = "0.1.0"
+version = "0.1.1"
 description = "Wikipedia ContentTranslation (CXServer) API wrapper to be used with mwclient"
 authors = ["Hung-I Wang <whygowe@gmail.com>"]
 readme = "README.md"
