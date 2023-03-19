@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/mwclient-contenttranslation.svg)](https://badge.fury.io/py/mwclient-contenttranslation)
+
 # mwclient-contenttranslation
 The wrapper of ContentTranslation (CXServer) API of Wikipedia to be used with mwclient.
 
